@@ -1,2 +1,2 @@
-# taskList-JS
+# Tasklist
 Basic tasklist using JavaScript 
